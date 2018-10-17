@@ -22,3 +22,22 @@ div {
   font-size: 1.125rem;
   text-decoration: none;
 }
+
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+  color: #fff;
+  border: 3px solid #ccc;
+  padding: .4em .75em .3em;
+  border-radius: 8px;
+  font-size: 1.125rem;
+  text-decoration: none;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+  border-color: #666;
+}
